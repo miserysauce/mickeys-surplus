@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Tourney:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Tourney";
+  color: #CCC3B9;
+  background-color: black;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #B68B57;
+}
+.navbar h1 {
+  color: #5C7A64;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #80544A;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* homepage */
+
+img {
+    /* border-radius: 5px; */
+    max-width: 100%;
+    height:auto;
+    
+}
