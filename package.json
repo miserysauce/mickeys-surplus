@@ -1,7 +1,7 @@
 {
   "homepage": "https://miserysauce.github.io/mickeys-surplus/",
   "name": "mickeys-surplus",
-  "private": true,
+  "private": "false",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
